@@ -13,8 +13,11 @@ body {
 }
 
 
+
 .container {
-    display: inline;
+    border: 2px solid black;
+    padding: 10px;
+    margin: 20px;
 }
 
 /* sdfggggggghfdhsssssssssssssssssssssssssssssshd 2*/
