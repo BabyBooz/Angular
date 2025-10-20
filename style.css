@@ -1,34 +1,16 @@
-body {
-    background-color: antiquewhite;
-    font-family: Arial, sans-serif;
-    text-align: center;
+#linh {
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
 }
 
 .paragraph {
-    color: red;
+    color: blue;
+    font-size: 16px;
 }
 
 #linh {
-    color: blue;
-}
-
-
-
-.container {
-    border: 2px solid black;
-    padding: 10px;
-    margin: 20px;
-}
-
-h2 {
-    color: green;
-    font-size: 24px;
-}
-
-div span {
-    font-weight: bold;
+    color: brown;
     font-size: 30px;
+    font-weight: bold;
 }
-
-
-/* sdfggggggghfdhsssssssssssssssssssssssssssssshd 2*/
