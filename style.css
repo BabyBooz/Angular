@@ -10,12 +10,13 @@ body {
 
 #linh {
     color: blue;
+    font-size: Bold;
+    font-size: 20px;
 }
 
 #btn {
-    background-color: yellow;
+    background-color: aquamarine;
     padding: 10px 20px;
-    margin: 10px;
     cursor: pointer;
     font-size: 16px;
     transition: 0.3s;
