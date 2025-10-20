@@ -19,11 +19,18 @@ body {
     cursor: pointer;
     font-size: 16px;
     transition: 0.3s;
-
-    position: right;
 }
 
 #btn:hover {
     background-color: orange;
     color: white;
 }
+
+.container {
+    display: inline;
+    justify-content: space-between;
+    align-items: center;
+    height: 1000px;
+}
+
+/* Test thu conflix git */
