@@ -1,0 +1,29 @@
+body {
+    background-color: antiquewhite;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.paragraph {
+    color: red;
+}
+
+#linh {
+    color: blue;
+}
+
+#btn {
+    background-color: yellow;
+    padding: 10px 20px;
+    margin: 10px;
+    cursor: pointer;
+    font-size: 16px;
+    transition: 0.3s;
+
+    position: right;
+}
+
+#btn:hover {
+    background-color: orange;
+    color: white;
+}
